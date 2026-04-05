@@ -46,10 +46,11 @@ This project evaluates the **economic and energy benefits of renewable energy in
 - Solar Futures Study (US DOE & NREL) shows potential decarbonization by 2035 & 2050  
 - Solar could provide up to **45% of electricity by 2050**  
 - Expected **500k–1.5M jobs by 2035**  
+**Historic Solar Costs** <img width="940" height="531" alt="Historic Solar Costs" src="https://github.com/user-attachments/assets/f0fad014-5f2b-4aa8-9ee0-ab50e1df815c" />
 
 **Projected Solar Costs (2054)**  
-- Installation: $9.42 M/MW  
-- Operations: $0.182 M/MW-yr  
+<img width="940" height="526" alt="Projected Solar Costs" src="https://github.com/user-attachments/assets/d0ebb286-3ff4-4852-bc30-474bc4a791ac" />
+
 
 ---
 
