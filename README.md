@@ -70,7 +70,20 @@ LCOE = \frac{\sum (It + Mt + Ft) / (1+r)^t}{\sum (Et / (1+r)^t)}
 | 100% Wind (Fixed-Bottom) 🌊 | $4.742 M/MW | $0.136 M/MW-yr | -$64.3 B |
 | 100% Wind (Floating) 🚢 | $6.862 M/MW | $0.144 M/MW-yr | -$86.5 B |
 | 100% Solar ☀️ | $1.24 M/MW | $0.024 M/MW-yr | -$15.4 B |
-| Mixed Wind & Solar ⚡☀️ | Land-based wind + solar | Calculated in increments | See Appendix |
+| Mixed Wind & Solar ⚡☀️ | Land-based wind + solar | Calculated in increments See Appendix| Calculated in increments See Appendix |
+
+Alternative #1a: 100% Wind (Land Based) <img width="937" height="478" alt="100% Wind (Land Based)" src="https://github.com/user-attachments/assets/f2883c2a-2432-45ea-8029-02c7ac616bf8" />
+
+Alternative #1b: 100% Wind (Fixed-Bottom) <img width="941" height="480" alt="100% Wind (Fixed-Bottom)" src="https://github.com/user-attachments/assets/45f2b583-4ac3-4f82-bb53-697348a25d14" />
+
+Alternative #1c: 100% Wind (Floating) <img width="940" height="485" alt="100% Wind (Floating)" src="https://github.com/user-attachments/assets/2e0d42d1-c2fe-4a09-a814-138f1c0d199a" />
+
+
+Alternative #2: Combination of Wind (Land) and Solar <img width="939" height="482" alt="Combination of Wind (Land) and Solar" src="https://github.com/user-attachments/assets/ce34dede-d397-47c8-93c9-9286c67d6bc1" />
+
+Alternative #3: 100% Solar <img width="942" height="478" alt="100% Solar" src="https://github.com/user-attachments/assets/2ef55d32-11ea-406a-8309-722d7d979293" />
+
+
 
 ---
 
@@ -78,7 +91,8 @@ LCOE = \frac{\sum (It + Mt + Ft) / (1+r)^t}{\sum (Et / (1+r)^t)}
 - **100% Solar** emerges as the **most cost-effective renewable option**, with a present worth of **$15.4B**, significantly lower than wind alternatives.  
 - Land-based wind alone is projected at **$25.3B**, highlighting higher economic costs.  
 - Mixed wind & solar does not surpass the cost advantage of solar alone.  
-- Renewable deployment aligns with **long-term sustainability goals** for Portland Metro Area.  
+<img width="940" height="476" alt="Conclusions" src="https://github.com/user-attachments/assets/3b458b84-8fd5-42d1-997d-657266f26d87" />
+
 
 ---
 
