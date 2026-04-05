@@ -2,7 +2,9 @@
 Comparative cost-benefit analysis of solar and wind energy focusing on installation, operating costs, and long-term financial viability.
 
 <a href="https://github.com/Yashwanth6309/Renewable-energy-cost-analysis/blob/main/ETM535%20Energy%20Benefit%20Analysis%20-%20Final%20Report.docx">Detailed report</a>
-  
+
+<a href="https://github.com/Yashwanth6309/Renewable-energy-cost-analysis/blob/main/Energy%20Benefit%20Analysis%20-%20Final%20(Master).pptx">PPT</a>
+
 ---
 
 ## Project Overview 📊🚀
