@@ -31,14 +31,13 @@ This project evaluates the **economic and energy benefits of renewable energy in
 ## Wind Energy Overview 🌬️
 - Fastest-growing renewable energy source in the US.  
 - DOE Wind Vision Scenarios: Baseline, BAU, and Study Scenario  
-- Wind deployment supports **economic, environmental, and energy diversification goals**  
+- Wind deployment supports **economic, environmental, and energy diversification goals**
+  
+# Wind installation and Projected Costs
+<img width="715" height="417" alt="Wind install and projected cost" src="https://github.com/user-attachments/assets/e9a1ea2d-1bbe-4264-821e-ab54273a91df" />
 
-**Projected Wind Costs (2054)**  
-| Type | Install Cost (M/MW) | Operating Cost (M/MW-yr) |
-|------|-------------------|-------------------------|
-| Land-Based | $13.997 | $0.373 |
-| Fixed-Bottom Offshore | $36.098 | $1.035 |
-| Floating Offshore | $52.007 | $1.100 |
+# Wind Operations and Projected Costs
+<img width="738" height="390" alt="Wind Operational and projected cost" src="https://github.com/user-attachments/assets/d77d5d68-ef13-4b26-a764-5f54235379c8" />
 
 ---
 
