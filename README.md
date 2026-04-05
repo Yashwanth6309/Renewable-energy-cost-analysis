@@ -4,7 +4,7 @@ Comparative cost-benefit analysis of solar and wind energy focusing on installat
 ---
 
 ## Project Overview 📊🚀
-This project evaluates the **economic and energy benefits of renewable energy installations** in the Portland Metro Area, Oregon. The analysis focuses on **Wind, Solar, and a combination of Wind & Solar**, assessing costs and potential energy outputs to meet **50% of projected energy needs by 2054**.
+This project evaluates the **economic and energy benefits of renewable energy installations** in the Portland Metro Area, Oregon. It focuses on three renewable energy alternatives: 100% Wind, 100% Solar, and a combination of Wind & Solar. The study assesses installation costs, operational expenses, and long-term financial viability using the Present Worth method, aiming to determine the most cost-effective and sustainable solution to meet 50% of projected energy needs by 2054. The analysis provides actionable recommendations for energy providers and policymakers to support Oregon’s transition toward renewable energy and decarbonization goals.
 
 ---
 
