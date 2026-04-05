@@ -83,7 +83,7 @@ Alternative #2: Combination of Wind (Land) and Solar <img width="939" height="48
 
 Alternative #3: 100% Solar <img width="942" height="478" alt="100% Solar" src="https://github.com/user-attachments/assets/2ef55d32-11ea-406a-8309-722d7d979293" />
 
-
+<a href="(https://github.com/Yashwanth6309/Renewable-energy-cost-analysis/blob/main/Calculations%20of%20all%20Alternatives.docx)">Alternatives Analysis</a>
 
 ---
 
